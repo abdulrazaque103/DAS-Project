@@ -10,7 +10,7 @@ Irfan:         ex-20sw065
 Pandas for loading data from dataframe, Numpy for data cleaning, seaborn for data viualization in statistical graphs and matplotlib for making some plots and graphs.
 
 # Files in Repository
-DS&A_Final_Project.ipynb: This is project file
+medical_insurance_cost_dsa.py: This is project file
 ped_crashes_2.csv: this dataset file
 
 # Acknowledgements
