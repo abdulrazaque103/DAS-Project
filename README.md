@@ -14,7 +14,7 @@ In this project we use Linear Regression Model for predicting statistical data.
 
 # 3 Business Question
 1. How can predictive modeling with machine learning help insurance companies better assess and manage risk in the medical insurance industry?
-2. What is the impact of regulatory changes on medical insurance pricing, and how can machine learning help adapt to these changes?
+2.How does the average medical insurance cost vary by age group, and what insights can this provide for our insurance pricing strategy?
 3. What is the distribution of policyholders based on their smoking status, and how does it impact their medical insurance costs?
 
 # Files in Repository
