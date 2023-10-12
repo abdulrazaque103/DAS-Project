@@ -9,6 +9,9 @@ Irfan:         ex-20sw065.
 # Libraries Uesd
 Pandas for loading data from dataframe, Numpy for data cleaning, seaborn for data viualization in statistical graphs and matplotlib for making some plots and graphs.
 
+# Data Model
+In this project we use Linear Regression Model for predicting statistical data.
+
 # Files in Repository
 medical_insurance_cost_dsa.py: This is project file.
 insurance.csv: this dataset file.
