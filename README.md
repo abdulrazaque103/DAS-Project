@@ -12,6 +12,11 @@ Pandas for loading data from dataframe, Numpy for data cleaning, seaborn for dat
 # Data Model
 In this project we use Linear Regression Model for predicting statistical data.
 
+# 3 Business Question
+1. How can predictive modeling with machine learning help insurance companies better assess and manage risk in the medical insurance industry?
+2. What is the impact of regulatory changes on medical insurance pricing, and how can machine learning help adapt to these changes?
+3. What is the distribution of policyholders based on their smoking status, and how does it impact their medical insurance costs?
+
 # Files in Repository
 medical_insurance_cost_dsa.py: This is project file.
 insurance.csv: this dataset file.
